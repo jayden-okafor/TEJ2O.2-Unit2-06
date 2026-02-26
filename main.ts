@@ -2,7 +2,7 @@
  *
  * Created by: Jayden
  * Created on: Feb 2026
- * This program lights up an led when ou click the "a" button and turns it off when you click the "b" button
+ * This program lights up an led when you click the "a" button and turns it off when you click the "b" button
  */
 
 basic.clearScreen()
